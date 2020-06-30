@@ -25,7 +25,7 @@ We've created a few Bubbles (markdown documents) to get you started.
 - [[todo]] - a place to keep track of things to do
 - [[nflscheduling]] - Nfl Scheduling stuff
 - [[piano]] - piano stuff
-- [[Nfl Scheduling]] (nflscheduling.md)
+- [Nfl Scheduling] (nflscheduling.md)
 
 
 
