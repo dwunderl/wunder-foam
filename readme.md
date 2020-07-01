@@ -24,9 +24,8 @@ We've created a few Bubbles (markdown documents) to get you started.
 - [[foam-tips]] - tips to get the most out of your Foam workspace
 - [[todo]] - a place to keep track of things to do
 - [[nflscheduling]] - Nfl Scheduling stuff
-- [[piano]] - piano stuff
-- [Nfl Scheduling] (nflscheduling.md)
-
+- [[piano]] - **piano** stuff
+  
 
 
 ## Note on `[[wiki-links]]`
