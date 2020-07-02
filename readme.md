@@ -29,8 +29,7 @@ We've created a few Bubbles (markdown documents) to get you started.
 - [[calculus]] - **Calculus** and **Pre-Calculus** stuff 
 - [[foam-tips]] - tips to get the most out of your Foam workspace
 - [calculus](calculus.md)
-
-  
+- [p2k](http://www.pathtoknowledgetutoring.com)  
 
 
 ## Note on `[[wiki-links]]`
