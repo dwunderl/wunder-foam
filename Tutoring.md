@@ -1,12 +1,12 @@
 # Tutoring
 
-Arithmetic
-    - Addition
-    - Subtraction
-    - Multiplication
-    - Division
-    - Squaring
+Arithmetic  
+    - Addition  
+    - Subtraction  
+    - Multiplication  
+    - Division  
+    - Squaring  
 
-Calculus
-    - Pre Calculus
-    - Topics
+Calculus  
+    - Pre Calculus  
+    - Topics  
