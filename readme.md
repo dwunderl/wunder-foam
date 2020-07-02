@@ -24,6 +24,9 @@ We've created a few Bubbles (markdown documents) to get you started.
 - [[todo]] - a place to keep track of things to do
 - [[nflscheduling]] - **Nfl Scheduling** stuff
 - [[piano]] - **Piano** stuff
+- [[Tutoring]] - **Tutoring** stuff
+- [[Squaring]] - **Squaring** stuff
+- [[Calculus]] - **Calculus** and **Pre-Calculus** stuff
 - [[foam-tips]] - tips to get the most out of your Foam workspace
 
   
